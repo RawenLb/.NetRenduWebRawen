@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rawen\\OneDrive\\Bureau\\AirportManagmentJOINENTITY\\AirportManagment24-25\\AirportManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44FBDF27-9066-4C5E-8C4D-120564C96FC8}|AM.UI.Web\\AM.UI.Web.csproj|c:\\users\\rawen\\onedrive\\bureau\\airportmanagmentjoinentity\\airportmanagment24-25\\airportmanagement\\am.ui.web\\views\\flight\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44FBDF27-9066-4C5E-8C4D-120564C96FC8}|AM.UI.Web\\AM.UI.Web.csproj|solutionrelative:am.ui.web\\views\\flight\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44FBDF27-9066-4C5E-8C4D-120564C96FC8}|AM.UI.Web\\AM.UI.Web.csproj|c:\\users\\rawen\\onedrive\\bureau\\airportmanagmentjoinentity\\airportmanagment24-25\\airportmanagement\\am.ui.web\\controllers\\flightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44FBDF27-9066-4C5E-8C4D-120564C96FC8}|AM.UI.Web\\AM.UI.Web.csproj|solutionrelative:am.ui.web\\controllers\\flightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44FBDF27-9066-4C5E-8C4D-120564C96FC8}|AM.UI.Web\\AM.UI.Web.csproj|c:\\users\\rawen\\onedrive\\bureau\\airportmanagmentjoinentity\\airportmanagment24-25\\airportmanagement\\am.ui.web\\views\\flight\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44FBDF27-9066-4C5E-8C4D-120564C96FC8}|AM.UI.Web\\AM.UI.Web.csproj|solutionrelative:am.ui.web\\views\\flight\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44FBDF27-9066-4C5E-8C4D-120564C96FC8}|AM.UI.Web\\AM.UI.Web.csproj|c:\\users\\rawen\\onedrive\\bureau\\airportmanagmentjoinentity\\airportmanagment24-25\\airportmanagement\\am.ui.web\\views\\plane\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44FBDF27-9066-4C5E-8C4D-120564C96FC8}|AM.UI.Web\\AM.UI.Web.csproj|solutionrelative:am.ui.web\\views\\plane\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44FBDF27-9066-4C5E-8C4D-120564C96FC8}|AM.UI.Web\\AM.UI.Web.csproj|c:\\users\\rawen\\onedrive\\bureau\\airportmanagmentjoinentity\\airportmanagment24-25\\airportmanagement\\am.ui.web\\views\\flight\\planedetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44FBDF27-9066-4C5E-8C4D-120564C96FC8}|AM.UI.Web\\AM.UI.Web.csproj|solutionrelative:am.ui.web\\views\\flight\\planedetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81EB509-4A5D-4E79-AEEC-EA3ECBE572DF}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\rawen\\onedrive\\bureau\\airportmanagmentjoinentity\\airportmanagment24-25\\airportmanagement\\am.applicationcore\\domain\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E81EB509-4A5D-4E79-AEEC-EA3ECBE572DF}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\domain\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81EB509-4A5D-4E79-AEEC-EA3ECBE572DF}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\rawen\\onedrive\\bureau\\airportmanagmentjoinentity\\airportmanagment24-25\\airportmanagement\\am.applicationcore\\interfaces\\iflightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E81EB509-4A5D-4E79-AEEC-EA3ECBE572DF}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\interfaces\\iflightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81EB509-4A5D-4E79-AEEC-EA3ECBE572DF}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\rawen\\onedrive\\bureau\\airportmanagmentjoinentity\\airportmanagment24-25\\airportmanagement\\am.applicationcore\\interfaces\\iserviceplanes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E81EB509-4A5D-4E79-AEEC-EA3ECBE572DF}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\interfaces\\iserviceplanes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\rawen\\OneDrive\\Bureau\\AirportManagmentJOINENTITY\\AirportManagment24-25\\AirportManagement\\AM.UI.Web\\Views\\Flight\\Details.cshtml",
+              "RelativeDocumentMoniker": "AM.UI.Web\\Views\\Flight\\Details.cshtml",
+              "ToolTip": "C:\\Users\\rawen\\OneDrive\\Bureau\\AirportManagmentJOINENTITY\\AirportManagment24-25\\AirportManagement\\AM.UI.Web\\Views\\Flight\\Details.cshtml",
+              "RelativeToolTip": "AM.UI.Web\\Views\\Flight\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T11:05:43.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlaneDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\rawen\\OneDrive\\Bureau\\AirportManagmentJOINENTITY\\AirportManagment24-25\\AirportManagement\\AM.UI.Web\\Views\\Flight\\PlaneDetails.cshtml",
+              "RelativeDocumentMoniker": "AM.UI.Web\\Views\\Flight\\PlaneDetails.cshtml",
+              "ToolTip": "C:\\Users\\rawen\\OneDrive\\Bureau\\AirportManagmentJOINENTITY\\AirportManagment24-25\\AirportManagement\\AM.UI.Web\\Views\\Flight\\PlaneDetails.cshtml",
+              "RelativeToolTip": "AM.UI.Web\\Views\\Flight\\PlaneDetails.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T11:02:14.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rawen\\OneDrive\\Bureau\\AirportManagmentJOINENTITY\\AirportManagment24-25\\AirportManagement\\AM.UI.Web\\Views\\Plane\\Index.cshtml",
+              "RelativeDocumentMoniker": "AM.UI.Web\\Views\\Plane\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rawen\\OneDrive\\Bureau\\AirportManagmentJOINENTITY\\AirportManagment24-25\\AirportManagement\\AM.UI.Web\\Views\\Plane\\Index.cshtml",
+              "RelativeToolTip": "AM.UI.Web\\Views\\Plane\\Index.cshtml",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwDMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T11:00:45.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rawen\\OneDrive\\Bureau\\AirportManagmentJOINENTITY\\AirportManagment24-25\\AirportManagement\\AM.UI.Web\\Views\\Flight\\Index.cshtml",
+              "RelativeDocumentMoniker": "AM.UI.Web\\Views\\Flight\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rawen\\OneDrive\\Bureau\\AirportManagmentJOINENTITY\\AirportManagment24-25\\AirportManagement\\AM.UI.Web\\Views\\Flight\\Index.cshtml",
+              "RelativeToolTip": "AM.UI.Web\\Views\\Flight\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwFsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T10:31:23.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FlightController.cs",
+              "DocumentMoniker": "C:\\Users\\rawen\\OneDrive\\Bureau\\AirportManagmentJOINENTITY\\AirportManagment24-25\\AirportManagement\\AM.UI.Web\\Controllers\\FlightController.cs",
+              "RelativeDocumentMoniker": "AM.UI.Web\\Controllers\\FlightController.cs",
+              "ToolTip": "C:\\Users\\rawen\\OneDrive\\Bureau\\AirportManagmentJOINENTITY\\AirportManagment24-25\\AirportManagement\\AM.UI.Web\\Controllers\\FlightController.cs",
+              "RelativeToolTip": "AM.UI.Web\\Controllers\\FlightController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwCkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T10:28:17.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Flight.cs",
+              "DocumentMoniker": "C:\\Users\\rawen\\OneDrive\\Bureau\\AirportManagmentJOINENTITY\\AirportManagment24-25\\AirportManagement\\AM.ApplicationCore\\Domain\\Flight.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Domain\\Flight.cs",
+              "ToolTip": "C:\\Users\\rawen\\OneDrive\\Bureau\\AirportManagmentJOINENTITY\\AirportManagment24-25\\AirportManagement\\AM.ApplicationCore\\Domain\\Flight.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Domain\\Flight.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T09:20:12.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IFlightService.cs",
+              "DocumentMoniker": "C:\\Users\\rawen\\OneDrive\\Bureau\\AirportManagmentJOINENTITY\\AirportManagment24-25\\AirportManagement\\AM.ApplicationCore\\Interfaces\\IFlightService.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Interfaces\\IFlightService.cs",
+              "ToolTip": "C:\\Users\\rawen\\OneDrive\\Bureau\\AirportManagmentJOINENTITY\\AirportManagment24-25\\AirportManagement\\AM.ApplicationCore\\Interfaces\\IFlightService.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Interfaces\\IFlightService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA6wB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T09:37:22.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IServicePlanes.cs",
+              "DocumentMoniker": "C:\\Users\\rawen\\OneDrive\\Bureau\\AirportManagmentJOINENTITY\\AirportManagment24-25\\AirportManagement\\AM.ApplicationCore\\Interfaces\\IServicePlanes.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Interfaces\\IServicePlanes.cs",
+              "ToolTip": "C:\\Users\\rawen\\OneDrive\\Bureau\\AirportManagmentJOINENTITY\\AirportManagment24-25\\AirportManagement\\AM.ApplicationCore\\Interfaces\\IServicePlanes.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Interfaces\\IServicePlanes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T08:55:50.137Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
